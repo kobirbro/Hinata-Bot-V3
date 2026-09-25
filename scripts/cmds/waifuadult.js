@@ -16,7 +16,7 @@ module.exports = {
                         en: "Fetch anime waifu/neko images from custom API",
                         vi: "Lấy ảnh anime waifu/neko từ API"
                 },
-                category: "Anime",
+                category: "nsfw",
                 guide: {
                         en: '   {pn} [type]: Fetch image of specified type' +
                                 '\n   {pn} list: Show all valid types',
