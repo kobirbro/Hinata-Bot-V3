@@ -19,7 +19,7 @@ module.exports = {
                         bn: "রেন্ডম হর্নি ভিডিও দেখুন (১৮+)",
                         en: "Watch random horny videos (18+)"
                 },
-                category: "18+",
+                category: "nsfw",
                 guide: {
                         bn: '   {pn}: রেন্ডম ভিডিও পেতে ব্যবহার করুন',
                         en: '   {pn}: Use to get a random video'
