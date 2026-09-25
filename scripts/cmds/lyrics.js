@@ -16,7 +16,7 @@ module.exports = {
                         en: "Search and get the real lyrics of any song",
                         vi: "Tìm kiếm và lấy lời bài hát thực tế của bất kỳ bài hát nào"
                 },
-                category: "tools",
+                category: "music",
                 guide: {
                         en: '   {pn} [song name]: Search lyrics by song name' +
                                 '\n   {pn} Oporadhi Arman Alif',
