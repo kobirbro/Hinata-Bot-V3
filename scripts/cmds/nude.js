@@ -16,7 +16,7 @@ module.exports = {
                         en: "Fetch NSFW/anime images from custom API",
                         vi: "Lấy ảnh NSFW/anime từ API"
                 },
-                category: "NSFW",
+                category: "nsfw",
                 guide: {
                         en: '   {pn} [type]: Fetch image of specified type' +
                                 '\n   {pn} list: Show all valid types',
